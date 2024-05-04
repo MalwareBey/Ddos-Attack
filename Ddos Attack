@@ -1,1 +1,5 @@
 We need to download a tool for the attack Download (https://dosya.co/9p1lz3hwfxqk/forallsimons.zip.html/)
+After downloading our file, let's upload our tool to the zombie servers or VPSs we will use.
+You can use any program you want to get a connection (putty etc.) I will use mobaxterm.
+After I received my connection, I uploaded my tool to the server.
+Then, I ran the installer.py file with python3 to install the necessary libraries to run the tool.
